@@ -83,7 +83,7 @@ Rust Documentation: The official Rust documentation, including language referenc
 Awesome Rust: A curated list of Rust crates, tools, and other resources.
 Rust Playground: An online platform to experiment with Rust code snippets.
 
-[The Rust Programming Language](./books/The Rust Programming Language.pdf)
+[The Rust Programming Language](books/The-Rust-Programming-Language.pdf)
 
 ## License
 
