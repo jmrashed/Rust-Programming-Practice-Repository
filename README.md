@@ -21,7 +21,7 @@ To get started with Rust programming and contribute to this repository, follow t
 3. **Clone your fork:** On your forked repository, click on the "Code" button and copy the HTTPS/SSH URL. Then, open a terminal on your local machine and run the following command:
 
 ```command
-     git clone ...
+   git clone https://github.com/jmrashed/Rust-Programming-Practice-Repository.git
 
 ```
 
